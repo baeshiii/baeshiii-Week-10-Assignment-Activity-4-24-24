@@ -1,0 +1,15 @@
+C:\Users\Andre\source\repos\w10 activity 4-24-24\w10 activity 4-24-24\bin\Debug\w10 activity 4-24-24.exe.config
+C:\Users\Andre\source\repos\w10 activity 4-24-24\w10 activity 4-24-24\bin\Debug\w10 activity 4-24-24.exe
+C:\Users\Andre\source\repos\w10 activity 4-24-24\w10 activity 4-24-24\bin\Debug\w10 activity 4-24-24.pdb
+C:\Users\Andre\source\repos\w10 activity 4-24-24\w10 activity 4-24-24\obj\Debug\w10 activity 4-24-24.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\w10 activity 4-24-24\w10 activity 4-24-24\obj\Debug\MainWindow.g.cs
+C:\Users\Andre\source\repos\w10 activity 4-24-24\w10 activity 4-24-24\obj\Debug\App.g.cs
+C:\Users\Andre\source\repos\w10 activity 4-24-24\w10 activity 4-24-24\obj\Debug\w10 activity 4-24-24_MarkupCompile.cache
+C:\Users\Andre\source\repos\w10 activity 4-24-24\w10 activity 4-24-24\obj\Debug\w10 activity 4-24-24_MarkupCompile.lref
+C:\Users\Andre\source\repos\w10 activity 4-24-24\w10 activity 4-24-24\obj\Debug\MainWindow.baml
+C:\Users\Andre\source\repos\w10 activity 4-24-24\w10 activity 4-24-24\obj\Debug\w10 activity 4-24-24.g.resources
+C:\Users\Andre\source\repos\w10 activity 4-24-24\w10 activity 4-24-24\obj\Debug\w10_activity_4_24_24.Properties.Resources.resources
+C:\Users\Andre\source\repos\w10 activity 4-24-24\w10 activity 4-24-24\obj\Debug\w10 activity 4-24-24.csproj.GenerateResource.cache
+C:\Users\Andre\source\repos\w10 activity 4-24-24\w10 activity 4-24-24\obj\Debug\w10 activity 4-24-24.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\w10 activity 4-24-24\w10 activity 4-24-24\obj\Debug\w10 activity 4-24-24.exe
+C:\Users\Andre\source\repos\w10 activity 4-24-24\w10 activity 4-24-24\obj\Debug\w10 activity 4-24-24.pdb
